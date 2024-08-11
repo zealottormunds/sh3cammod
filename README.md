@@ -17,6 +17,15 @@ It is also recommended to set your audio setting to mono, as stereo works weirdl
 
 I also recommend to disable this mod with F2 in the mansion when you have to run from the red fog. It's clearly not supposed to be played in first or third person, so you'll have an easier time if you disable it. I'll probably add a setting to disable it automatically in a later update.
 
+**Mod menu controls**
+- F1 to enable/disable
+- ESC to go back
+- Enter to turn a setting ON/OFF
+- WASD to navigate
+
 **Follow me on Twitter (@zealot_tomato) to get the news on my mods!**
 
 Also some of you have told me you wanna tip me so I won't say no, here's my paypal crap if you wanna do it (it's not necessary, this mod is free, only do this if you wanna waste money): [Paypal crap in case you wanna waste money](https://www.paypal.me/zealottomato)
+
+![2](https://github.com/user-attachments/assets/f24f5f99-64f9-4b1c-8715-ac0b40f054ef)
+![3](https://github.com/user-attachments/assets/ae5e507d-628b-4a9d-9f3c-3c24ba0e0ca2)
